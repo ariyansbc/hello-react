@@ -1,4 +1,11 @@
 .App {
   text-align: center;
 }
+.showProducts {
+  display: flex;
+  
+}
 
+.fruits-container {
+  display: flex;
+}
